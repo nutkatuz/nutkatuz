@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋  
+My name is Ann. 
+I'm an amateur web-developer, glad to chat and share my knowledge.
 <!--
 **nutkatuz/nutkatuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src='https://media0.giphy.com/media/OmK8lulOMQ9XO/giphy.gif?cid=dc79c3575ab0e891722e664141fc8318'>
