@@ -1,6 +1,6 @@
 ### Hi there ✨
-I'm an amateur web-developer.  
-Would be glad to mix with you and share knowledge, so, [AMA in telegram](https://t.me/revidovich)
+I'm an amateur web-developer from Perm, Russia.  
+Would be glad to mix with you and share knowledge, so, [ask me anything in telegram](https://t.me/revidovich)
 <!--
 **nutkatuz/nutkatuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
