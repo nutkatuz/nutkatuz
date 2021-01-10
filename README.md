@@ -1,7 +1,6 @@
-### Hi there 👋  
-My name is Ann. 
-I'm an amateur web-developer, 
-would be glad to mix with you and share knowledge.
+### Hi there ✨
+I'm an amateur web-developer.  
+Would be glad to mix with you and share knowledge, so, [AMA in telegram](https://t.me/revidovich)
 <!--
 **nutkatuz/nutkatuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
